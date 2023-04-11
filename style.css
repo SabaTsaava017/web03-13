@@ -1,0 +1,21 @@
+.block{
+	background-color: #2F80ED;
+	display: inline-block;
+	width:400px ;
+	height: 720px;
+}
+p{
+	color: white;
+	padding-left: 100px;
+	font-size: 24px;
+}
+button{
+	width: 300px;
+	height: 60px;
+	background-color: #333333;
+	color: white;
+	font-size: 24px;
+	margin-left: 44px;
+	margin-bottom: 20px;
+}
+
