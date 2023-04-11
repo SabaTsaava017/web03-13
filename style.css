@@ -18,4 +18,27 @@ button{
 	margin-left: 44px;
 	margin-bottom: 20px;
 }
+.foto{
+	width: 700px;
+	margin-left: 150px;
+}
+.block2{
+	background-color: white;
+	display: inline-block;
+	width: 1000px;
+	height: 400px;
+	padding-bottom: 400px;
+}
+.paragrap_style1{
+	color:#4F4F4F;
+	padding-right: ;
+	font-size: 36px;
+	width: 561px;
+	padding-left: 420px;
 
+}
+.paragrap_style2{
+	color:#4F4F4F;
+	font-size: 36px;
+	width: 562px;
+}
