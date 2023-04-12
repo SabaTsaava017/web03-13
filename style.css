@@ -17,6 +17,7 @@ button{
 	font-size: 24px;
 	margin-left: 44px;
 	margin-bottom: 20px;
+
 }
 .foto{
 	width: 700px;
@@ -42,4 +43,7 @@ button{
 	color:#4F4F4F;
 	font-size: 36px;
 	width: 562px;
+}
+.button_style{
+	padding-top: 100px;
 }
