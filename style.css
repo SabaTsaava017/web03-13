@@ -28,6 +28,7 @@ button{
 	width: 1000px;
 	height: 400px;
 	padding-bottom: 400px;
+	vertical-align:top;
 }
 .paragrap_style1{
 	color:#4F4F4F;
